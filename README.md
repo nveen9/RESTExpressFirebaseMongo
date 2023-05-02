@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Build RESTful APIs with Node.js [Express](https://expressjs.com/).
+
+Used [Tailwind CSS](https://tailwindcss.com/).
+
 ## Available Scripts
 
 In the project directory, you can run:
