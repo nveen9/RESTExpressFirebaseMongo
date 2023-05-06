@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Build RESTful API with Node.js [Express](https://expressjs.com/).
 
+Database [Firebase](https://firebase.google.com/) and [MongoDB](https://www.mongodb.com/).
+
 Used [Tailwind CSS](https://tailwindcss.com/).
 
 ## Available Scripts
